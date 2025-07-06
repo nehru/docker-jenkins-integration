@@ -14,4 +14,8 @@ public class App
         return x+y;
     }
 
+    static int sub(int x, int y){
+        System.out.println("adding sub of  x and y");
+        return x-y;
+    }
 }
